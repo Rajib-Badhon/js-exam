@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wrapper{
+	/*border: 2px solid red;*/
+}
+#sign_up{
+	/*border: 2px solid black;*/
+	background-color: #3C549A;
+}
+.heading_text{
+	margin-top: 15px;
+	bottom: 10px;
+	/*border: 2px solid yellow;*/
+	background-color: #87C540;
+}
+.heading_text h2{
+	padding: 10px;
+	font-weight: bold;
+	font-size: 24px;
+	font-style: italic;
+	font-family: verdana;
+	text-align: center;
+	color: black;
+}
+.alert{
+	border: 2px solid green;
+	background-color: lightgrey;
+}
+#ui_name{
+	/*display: inline-block;*/
+	border: 2px solid black;
+	padding: 10px;
+}
+#ui_name li{
+	display: inline-block;
+	/*border: 2px solid #8E825E;*/
+	margin: 10px;
+	padding: 10px;
+	color: black;
+}
+input{
+	width: 300px;
+	margin: 5px;
+	padding: 5px;
+}
+label{
+	margin: 5px;
+}
+#smsemail{
+	text-align: center;
+	color: red;
+	font-size: 18px;
+}
+#btn{
+	font-weight: bold;
+	border: 2px solid black;
+	margin: 15px;
+	left: 30px;
+	width: 150px;
+	background-color: lightblue;
+}
